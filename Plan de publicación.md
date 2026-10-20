@@ -7,6 +7,6 @@ Regla: nunca dos versiones del mismo video el mismo día.
 |---|---|---|---|
 | 20 oct | 12 gancho mujer noche | 02 dog park | 03 antes/después |
 | 21 oct | 12B gancho tienda | 11 esposo ES | — |
-| 22 oct | — | — | — |
+| 22 oct | 13 animado Pixar | — | — |
 | 28 oct | — | — | 07 Halloween |
 | 1 nov | — | 08 cambio de hora (6 p. m.) | — |

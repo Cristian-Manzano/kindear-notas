@@ -8,6 +8,9 @@ Carpeta completa: [publicar_desde_19oct](https://github.com/Cristian-Manzano/Boo
 ## 12B Gancho tienda
 [Descargar](https://github.com/Cristian-Manzano/Bootcamp_IA_MINTIC/blob/claude/brave-archimedes-hax3kx/publicar_desde_19oct/12B_gancho_tienda_problema_solucion.mp4) · 15 s · "Black dog owners when they see this 😭".
 
+## 13 Animado Pixar
+[Descargar](https://github.com/Cristian-Manzano/Bootcamp_IA_MINTIC/blob/claude/brave-archimedes-hax3kx/publicar_desde_19oct/13_animado_pixar_perronegro.mp4) · 15 s · mujer cartoon se tropieza con el perro negro → solución real → GLOW.
+
 ## 11 Esposo (español)
 [Isabella](https://github.com/Cristian-Manzano/Bootcamp_IA_MINTIC/blob/claude/brave-archimedes-hax3kx/publicar_desde_19oct/11_esposo_ES_vozA_Isabella.mp4) · [Elena](https://github.com/Cristian-Manzano/Bootcamp_IA_MINTIC/blob/claude/brave-archimedes-hax3kx/publicar_desde_19oct/11_esposo_ES_vozB_Elena.mp4) · [Inés](https://github.com/Cristian-Manzano/Bootcamp_IA_MINTIC/blob/claude/brave-archimedes-hax3kx/publicar_desde_19oct/11_esposo_ES_vozC_Ines.mp4)
 
