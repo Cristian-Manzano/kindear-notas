@@ -1,0 +1,13 @@
+{
+  "commitMessage": "Cristian: {{date}}",
+  "autoCommitMessage": "Cristian: {{date}}",
+  "autoSaveInterval": 2,
+  "autoPushInterval": 0,
+  "autoPullInterval": 2,
+  "autoPullOnBoot": true,
+  "disablePush": false,
+  "pullBeforePush": true,
+  "syncMethod": "merge",
+  "differentIntervalCommitAndPush": false,
+  "showStatusBar": true
+}
