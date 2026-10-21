@@ -8,6 +8,9 @@ Carpeta completa: [publicar_desde_19oct](https://github.com/Cristian-Manzano/Boo
 ## 12B Gancho tienda
 [Descargar](https://github.com/Cristian-Manzano/Bootcamp_IA_MINTIC/blob/claude/brave-archimedes-hax3kx/publicar_desde_19oct/12B_gancho_tienda_problema_solucion.mp4) · 15 s · "Black dog owners when they see this 😭".
 
+## 14 Halloween salchicha hot dog
+[Descargar](https://github.com/Cristian-Manzano/Bootcamp_IA_MINTIC/blob/claude/brave-archimedes-hax3kx/publicar_desde_19oct/14_halloween_salchicha_hotdog.mp4) · 14 s · fiesta de Halloween, letrero "No GLOW, no entry", collar naranja. Publicar antes del 31 oct.
+
 ## 13 Animado Pixar
 [Descargar](https://github.com/Cristian-Manzano/Bootcamp_IA_MINTIC/blob/claude/brave-archimedes-hax3kx/publicar_desde_19oct/13_animado_pixar_perronegro.mp4) · 15 s · mujer cartoon se tropieza con el perro negro → solución real → GLOW.
 
